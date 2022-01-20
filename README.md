@@ -1,5 +1,7 @@
-FastColoredTextBox
-==================
+FastColoredTextBox for .net6
+============================
+
+Just original https://github.com/StarShip-Avalon-Projects/fctb, migrated to .net6.0 by upgrade-assistant tool.
 
 Fast Colored TextBox is text editor component for .NET.
 Allows you to create custom text editor with syntax highlighting.
